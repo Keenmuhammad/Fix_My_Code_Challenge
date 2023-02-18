@@ -24,6 +24,7 @@ def fizzbuzz(n):
             tmp_result.append("Buzz")
         else:
             tmp_result.append(str(i))
+   
     print(" ".join(tmp_result))
 
 
